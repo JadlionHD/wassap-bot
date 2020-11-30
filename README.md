@@ -7,7 +7,7 @@ to start the bot you need to:
  - and make sure to scan the qrcode to launch the bot!
  
 # Contribution
-We allowing any pull request that you made! but we must reveiew it first.
+We allowing any pull request that you made! but we must review it first.
 
 # License
 MIT
