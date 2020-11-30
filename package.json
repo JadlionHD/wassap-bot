@@ -1,0 +1,25 @@
+{
+  "name": "wa-bot",
+  "version": "1.0.0",
+  "description": "wa bot, gabut aja",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadlionHD/wa-bot.git"
+  },
+  "author": "JadlionHD (Hendra)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JadlionHD/wa-bot/issues"
+  },
+  "homepage": "https://github.com/JadlionHD/wa-bot#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "whatsapp-web.js": "^1.11.1"
+  }
+}
