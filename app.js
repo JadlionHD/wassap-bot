@@ -15,7 +15,10 @@ client.on("ready", () => {
 client.on("message", (msg) => {
 	let args = msg.body.slice(config.prefix.length).split(' ');
 	let command = args.shift().toLowerCase();
-
+	
+	if(command === "help") {
+		msg.reply(`${command}ping\n${command}covid`)
+	}
 	if(command === "ping") {
 		msg.reply("Pong!");
 	}
