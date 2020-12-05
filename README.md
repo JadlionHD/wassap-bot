@@ -2,7 +2,7 @@
 simple wa bot
 
 to start the bot you need to:
- - `npm install` to install modules
+ - `npm install` or `yarn` to install modules
  - `npm start` to start the bot
  - and make sure to scan the qrcode to launch the bot!
  
